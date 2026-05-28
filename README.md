@@ -2,7 +2,8 @@
 
 A free, fully configurable "Starting Soon" overlay for OBS/Streamlabs. No login required. No watermarks. No subscriptions.
 
-![Starting Soon Screen](preview.png)
+<img width="1247" height="1226" alt="Starting soon" src="https://github.com/user-attachments/assets/a09cedf5-e5b0-4d12-aef7-86fb24d286a4" />
+
 
 ---
 
